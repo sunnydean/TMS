@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 9bd4d3d282f0fa746b43c73275a9589a
+timeCreated: 1459983275
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: BackLeg_IK_L
+    100004: BackLeg_IK_R
+    100006: BackLeg_L
+    100008: BackLeg_R
+    100010: Body
+    100012: Bone
+    100014: Ear_L
+    100016: Ear_R
+    100018: EarConnector_L
+    100020: EarConnector_R
+    100022: Elephant
+    100024: //RootNode
+    100026: FronLeg_L
+    100028: FronLeg_R
+    100030: FrontLeg_IK_L
+    100032: FrontLeg_IK_R
+    100034: Head
+    100036: LowerBackLeg_L
+    100038: LowerBackLeg_R
+    100040: LowerFrontLeg_L
+    100042: LowerFrontLeg_R
+    100044: Tail
+    100046: Tail_1
+    100048: Tail_2
+    100050: Tail_3
+    100052: Tail_4
+    100054: Tail_5
+    100056: TailEnd
+    100058: Trunk
+    100060: Trunk_1
+    100062: Trunk_2
+    100064: Trunk_3
+    100066: Trunk_4
+    100068: Trunk_5
+    100070: UpperBackLeg_L
+    100072: UpperBackLeg_R
+    100074: UpperFrontLeg_L
+    100076: UpperFrontLeg_R
+    400000: Armature
+    400002: BackLeg_IK_L
+    400004: BackLeg_IK_R
+    400006: BackLeg_L
+    400008: BackLeg_R
+    400010: Body
+    400012: Bone
+    400014: Ear_L
+    400016: Ear_R
+    400018: EarConnector_L
+    400020: EarConnector_R
+    400022: Elephant
+    400024: //RootNode
+    400026: FronLeg_L
+    400028: FronLeg_R
+    400030: FrontLeg_IK_L
+    400032: FrontLeg_IK_R
+    400034: Head
+    400036: LowerBackLeg_L
+    400038: LowerBackLeg_R
+    400040: LowerFrontLeg_L
+    400042: LowerFrontLeg_R
+    400044: Tail
+    400046: Tail_1
+    400048: Tail_2
+    400050: Tail_3
+    400052: Tail_4
+    400054: Tail_5
+    400056: TailEnd
+    400058: Trunk
+    400060: Trunk_1
+    400062: Trunk_2
+    400064: Trunk_3
+    400066: Trunk_4
+    400068: Trunk_5
+    400070: UpperBackLeg_L
+    400072: UpperBackLeg_R
+    400074: UpperFrontLeg_L
+    400076: UpperFrontLeg_R
+    4300000: Elephant
+    7400000: Default Take
+    7400002: Happy
+    7400004: Idle
+    7400006: Jump
+    7400008: Land
+    7400010: Run
+    7400012: Sad
+    9500000: //RootNode
+    13700000: Elephant
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
